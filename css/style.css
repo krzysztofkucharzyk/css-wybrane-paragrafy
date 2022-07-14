@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+p.niebieski {
+    background-color: #000dff;
+}
+
+p.opacity {
+    opacity: .5;
+}
